@@ -2,3 +2,5 @@
 2023-10-10 15:35:53,994 - __main__ - INFO - Weather in Berlin: 15.02
 2023-10-10 15:39:51,251 - __main__ - INFO - Token value: Token not available!
 2023-10-10 15:39:51,996 - __main__ - INFO - Weather in Berlin: 15.02
+2023-10-10 21:41:02,608 - __main__ - INFO - Token value: abcd
+2023-10-10 21:41:02,745 - __main__ - INFO - Weather in Berlin: 15.14
