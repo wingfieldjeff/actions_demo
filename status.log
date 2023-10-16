@@ -8,6 +8,9 @@
 2023-10-16 18:32:19,805 - __main__ - INFO - Weather in Berlin: 7.96
 2023-10-16 14:39:54,176 - __main__ - INFO - Token value: Token not available!
 2023-10-16 14:39:54,948 - __main__ - INFO - Weather in Tampa: 20.42
-2023-10-16 15:04:16,643 - __main__ - INFO - Weather in Tampa: 20.42C
-2023-10-16 15:04:29,356 - __main__ - INFO - Weather in Tampa: 20.42C
-2023-10-16 15:12:26,903 - __main__ - INFO - Weather in Tampa: 20.42C
+2023-10-16 18:46:54,942 - __main__ - INFO - Token value: abcd
+2023-10-16 18:46:55,641 - __main__ - INFO - Weather in Tampa: 20.42
+2023-10-16 18:55:15,654 - __main__ - INFO - Token value: abcd
+2023-10-16 18:55:16,246 - __main__ - INFO - Weather in Tampa: 20.42
+2023-10-16 19:09:25,242 - __main__ - INFO - Token value: abcd
+2023-10-16 19:09:25,900 - __main__ - INFO - Weather in Tampa: 20.42
